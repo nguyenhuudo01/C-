@@ -1,0 +1,6 @@
+D:\LTTQ C#\Chuong2\BAi4\BAi4\bin\Debug\BAi4.exe.config
+D:\LTTQ C#\Chuong2\BAi4\BAi4\bin\Debug\BAi4.exe
+D:\LTTQ C#\Chuong2\BAi4\BAi4\bin\Debug\BAi4.pdb
+D:\LTTQ C#\Chuong2\BAi4\BAi4\obj\Debug\BAi4.csprojResolveAssemblyReference.cache
+D:\LTTQ C#\Chuong2\BAi4\BAi4\obj\Debug\BAi4.exe
+D:\LTTQ C#\Chuong2\BAi4\BAi4\obj\Debug\BAi4.pdb

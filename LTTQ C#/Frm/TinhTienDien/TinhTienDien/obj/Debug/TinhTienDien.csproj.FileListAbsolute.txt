@@ -1,0 +1,9 @@
+D:\LTTQ C#\Frm\TinhTienDien\TinhTienDien\bin\Debug\TinhTienDien.exe.config
+D:\LTTQ C#\Frm\TinhTienDien\TinhTienDien\bin\Debug\TinhTienDien.exe
+D:\LTTQ C#\Frm\TinhTienDien\TinhTienDien\bin\Debug\TinhTienDien.pdb
+D:\LTTQ C#\Frm\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.csprojResolveAssemblyReference.cache
+D:\LTTQ C#\Frm\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.frmTienDien.resources
+D:\LTTQ C#\Frm\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.Properties.Resources.resources
+D:\LTTQ C#\Frm\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.csproj.GenerateResource.Cache
+D:\LTTQ C#\Frm\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.exe
+D:\LTTQ C#\Frm\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.pdb

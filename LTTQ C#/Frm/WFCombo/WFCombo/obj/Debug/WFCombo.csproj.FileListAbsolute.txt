@@ -1,0 +1,9 @@
+D:\LTTQ C#\Frm\WFCombo\WFCombo\bin\Debug\WFCombo.exe.config
+D:\LTTQ C#\Frm\WFCombo\WFCombo\bin\Debug\WFCombo.exe
+D:\LTTQ C#\Frm\WFCombo\WFCombo\bin\Debug\WFCombo.pdb
+D:\LTTQ C#\Frm\WFCombo\WFCombo\obj\Debug\WFCombo.csprojResolveAssemblyReference.cache
+D:\LTTQ C#\Frm\WFCombo\WFCombo\obj\Debug\WFCombo.Form1.resources
+D:\LTTQ C#\Frm\WFCombo\WFCombo\obj\Debug\WFCombo.Properties.Resources.resources
+D:\LTTQ C#\Frm\WFCombo\WFCombo\obj\Debug\WFCombo.csproj.GenerateResource.Cache
+D:\LTTQ C#\Frm\WFCombo\WFCombo\obj\Debug\WFCombo.exe
+D:\LTTQ C#\Frm\WFCombo\WFCombo\obj\Debug\WFCombo.pdb

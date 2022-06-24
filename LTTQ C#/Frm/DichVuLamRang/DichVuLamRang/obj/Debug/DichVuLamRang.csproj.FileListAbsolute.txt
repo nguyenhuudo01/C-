@@ -1,0 +1,9 @@
+D:\LTTQ C#\Frm\DichVuLamRang\DichVuLamRang\bin\Debug\DichVuLamRang.exe.config
+D:\LTTQ C#\Frm\DichVuLamRang\DichVuLamRang\bin\Debug\DichVuLamRang.exe
+D:\LTTQ C#\Frm\DichVuLamRang\DichVuLamRang\bin\Debug\DichVuLamRang.pdb
+D:\LTTQ C#\Frm\DichVuLamRang\DichVuLamRang\obj\Debug\DichVuLamRang.csprojResolveAssemblyReference.cache
+D:\LTTQ C#\Frm\DichVuLamRang\DichVuLamRang\obj\Debug\DichVuLamRang.FrmDVLR.resources
+D:\LTTQ C#\Frm\DichVuLamRang\DichVuLamRang\obj\Debug\DichVuLamRang.Properties.Resources.resources
+D:\LTTQ C#\Frm\DichVuLamRang\DichVuLamRang\obj\Debug\DichVuLamRang.csproj.GenerateResource.Cache
+D:\LTTQ C#\Frm\DichVuLamRang\DichVuLamRang\obj\Debug\DichVuLamRang.exe
+D:\LTTQ C#\Frm\DichVuLamRang\DichVuLamRang\obj\Debug\DichVuLamRang.pdb

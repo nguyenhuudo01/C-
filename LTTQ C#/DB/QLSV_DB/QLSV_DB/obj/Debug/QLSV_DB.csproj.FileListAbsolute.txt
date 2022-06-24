@@ -1,0 +1,10 @@
+D:\LTTQ C#\DB\QLSV_DB\QLSV_DB\bin\Debug\QLSV_DB.exe.config
+D:\LTTQ C#\DB\QLSV_DB\QLSV_DB\bin\Debug\QLSV_DB.exe
+D:\LTTQ C#\DB\QLSV_DB\QLSV_DB\bin\Debug\QLSV_DB.pdb
+D:\LTTQ C#\DB\QLSV_DB\QLSV_DB\obj\Debug\QLSV_DB.Properties.Resources.resources
+D:\LTTQ C#\DB\QLSV_DB\QLSV_DB\obj\Debug\QLSV_DB.csproj.GenerateResource.Cache
+D:\LTTQ C#\DB\QLSV_DB\QLSV_DB\obj\Debug\QLSV_DB.exe
+D:\LTTQ C#\DB\QLSV_DB\QLSV_DB\obj\Debug\QLSV_DB.pdb
+D:\LTTQ C#\DB\QLSV_DB\QLSV_DB\obj\Debug\QLSV_DB.frmQLSVDB.resources
+D:\LTTQ C#\DB\QLSV_DB\QLSV_DB\obj\Debug\QLSV_DB.csproj.AssemblyReference.cache
+D:\LTTQ C#\DB\QLSV_DB\QLSV_DB\obj\Debug\QLSV_DB.csproj.CoreCompileInputs.cache

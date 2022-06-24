@@ -1,0 +1,9 @@
+D:\LTTQ C#\Frm\HT21_16_NguyenHuuDo\HT21_16_NguyenHuuDo\bin\Debug\HT21_16_NguyenHuuDo.exe.config
+D:\LTTQ C#\Frm\HT21_16_NguyenHuuDo\HT21_16_NguyenHuuDo\bin\Debug\HT21_16_NguyenHuuDo.exe
+D:\LTTQ C#\Frm\HT21_16_NguyenHuuDo\HT21_16_NguyenHuuDo\bin\Debug\HT21_16_NguyenHuuDo.pdb
+D:\LTTQ C#\Frm\HT21_16_NguyenHuuDo\HT21_16_NguyenHuuDo\obj\Debug\HT21_16_NguyenHuuDo.csprojResolveAssemblyReference.cache
+D:\LTTQ C#\Frm\HT21_16_NguyenHuuDo\HT21_16_NguyenHuuDo\obj\Debug\HT21_16_NguyenHuuDo.frmTinhTienDien.resources
+D:\LTTQ C#\Frm\HT21_16_NguyenHuuDo\HT21_16_NguyenHuuDo\obj\Debug\HT21_16_NguyenHuuDo.Properties.Resources.resources
+D:\LTTQ C#\Frm\HT21_16_NguyenHuuDo\HT21_16_NguyenHuuDo\obj\Debug\HT21_16_NguyenHuuDo.csproj.GenerateResource.Cache
+D:\LTTQ C#\Frm\HT21_16_NguyenHuuDo\HT21_16_NguyenHuuDo\obj\Debug\HT21_16_NguyenHuuDo.exe
+D:\LTTQ C#\Frm\HT21_16_NguyenHuuDo\HT21_16_NguyenHuuDo\obj\Debug\HT21_16_NguyenHuuDo.pdb

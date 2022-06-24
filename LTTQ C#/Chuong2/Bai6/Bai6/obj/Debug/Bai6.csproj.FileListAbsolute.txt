@@ -1,0 +1,6 @@
+D:\LTTQ C#\Chuong2\Bai6\Bai6\bin\Debug\Bai6.exe.config
+D:\LTTQ C#\Chuong2\Bai6\Bai6\bin\Debug\Bai6.exe
+D:\LTTQ C#\Chuong2\Bai6\Bai6\bin\Debug\Bai6.pdb
+D:\LTTQ C#\Chuong2\Bai6\Bai6\obj\Debug\Bai6.csprojResolveAssemblyReference.cache
+D:\LTTQ C#\Chuong2\Bai6\Bai6\obj\Debug\Bai6.exe
+D:\LTTQ C#\Chuong2\Bai6\Bai6\obj\Debug\Bai6.pdb

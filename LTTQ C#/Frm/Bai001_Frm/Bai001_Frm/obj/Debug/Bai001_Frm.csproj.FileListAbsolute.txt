@@ -1,0 +1,9 @@
+D:\LTTQ C#\Frm\Bai001_Frm\Bai001_Frm\bin\Debug\Bai001_Frm.exe.config
+D:\LTTQ C#\Frm\Bai001_Frm\Bai001_Frm\bin\Debug\Bai001_Frm.exe
+D:\LTTQ C#\Frm\Bai001_Frm\Bai001_Frm\bin\Debug\Bai001_Frm.pdb
+D:\LTTQ C#\Frm\Bai001_Frm\Bai001_Frm\obj\Debug\Bai001_Frm.csprojResolveAssemblyReference.cache
+D:\LTTQ C#\Frm\Bai001_Frm\Bai001_Frm\obj\Debug\Bai001_Frm.FrmTinhToan.resources
+D:\LTTQ C#\Frm\Bai001_Frm\Bai001_Frm\obj\Debug\Bai001_Frm.Properties.Resources.resources
+D:\LTTQ C#\Frm\Bai001_Frm\Bai001_Frm\obj\Debug\Bai001_Frm.csproj.GenerateResource.Cache
+D:\LTTQ C#\Frm\Bai001_Frm\Bai001_Frm\obj\Debug\Bai001_Frm.exe
+D:\LTTQ C#\Frm\Bai001_Frm\Bai001_Frm\obj\Debug\Bai001_Frm.pdb

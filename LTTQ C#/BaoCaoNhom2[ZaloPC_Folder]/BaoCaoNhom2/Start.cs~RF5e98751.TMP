@@ -1,0 +1,86 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace BaoCaoNhom2
+{
+    public partial class Start : Form
+    {
+        public Start()
+        {
+            InitializeComponent();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void designButton3_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void designButton1_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void designButton2_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void pictureBox1_DoubleClick(object sender, EventArgs e)
+        {
+            if (WindowState == FormWindowState.Maximized)
+                WindowState = FormWindowState.Normal;
+            else
+                WindowState = FormWindowState.Maximized;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login lg = new Login();
+            lg.ShowDialog();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            String tt = "";
+            tt += "Phần mềm : Quản lý Khách sạn MIA \n";
+            tt += "\n ";
+            tt += "version : 1.1";
+            tt += "\n\n";
+            tt += "              _____________Bài tập lớn______________ ";
+            tt += "\n\n\n";
+            tt += " Trường Đại học Công Nghệ Giao Thông Vận Tải";
+            tt += "\n";
+            tt += " Lớp: 70DCTT21";
+            tt += " Học phần : Lập trình trực quan C#";
+            tt += "\n";
+            tt += "\n";
+            tt += "\nNhóm thực hiện: Nhóm số 3.";
+            tt += "\nThành viên nhóm: ";
+            tt += "\n         - Nhóm trưởng: Nguyễn Quang Bảo. ";
+            tt += "\n         - Đội viên:    Phạm Đình Thắng. ";
+            tt += "\n         - Đội viên:    Nguyễn Nghĩa Ninh. ";
+            tt += "\n         - Đội viên:    Nguyễn Thị Thùy Duyên. ";
+
+
+            MessageBox.Show("" + tt, "Thông tin phần mềm", MessageBoxButtons.OK);
+        }
+    }
+}

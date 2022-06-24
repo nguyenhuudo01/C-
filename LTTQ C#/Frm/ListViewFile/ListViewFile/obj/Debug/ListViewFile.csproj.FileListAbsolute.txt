@@ -1,0 +1,11 @@
+D:\LTTQ C#\Frm\ListViewFile\ListViewFile\bin\Debug\ListViewFile.exe.config
+D:\LTTQ C#\Frm\ListViewFile\ListViewFile\bin\Debug\ListViewFile.exe
+D:\LTTQ C#\Frm\ListViewFile\ListViewFile\bin\Debug\ListViewFile.pdb
+D:\LTTQ C#\Frm\ListViewFile\ListViewFile\obj\Debug\ListViewFile.frmQLSV.resources
+D:\LTTQ C#\Frm\ListViewFile\ListViewFile\obj\Debug\ListViewFile.Properties.Resources.resources
+D:\LTTQ C#\Frm\ListViewFile\ListViewFile\obj\Debug\ListViewFile.csproj.GenerateResource.Cache
+D:\LTTQ C#\Frm\ListViewFile\ListViewFile\obj\Debug\ListViewFile.exe
+D:\LTTQ C#\Frm\ListViewFile\ListViewFile\obj\Debug\ListViewFile.pdb
+D:\LTTQ C#\Frm\ListViewFile\ListViewFile\obj\Debug\ListViewFile.csproj.AssemblyReference.cache
+D:\LTTQ C#\Frm\ListViewFile\ListViewFile\obj\Debug\ListViewFile.csproj.SuggestedBindingRedirects.cache
+D:\LTTQ C#\Frm\ListViewFile\ListViewFile\obj\Debug\ListViewFile.csproj.CoreCompileInputs.cache

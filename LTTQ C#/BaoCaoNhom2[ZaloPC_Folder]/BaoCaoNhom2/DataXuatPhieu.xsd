@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataXuatPhieu" targetNamespace="http://tempuri.org/DataXuatPhieu.xsd" xmlns:mstns="http://tempuri.org/DataXuatPhieu.xsd" xmlns="http://tempuri.org/DataXuatPhieu.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLKSConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLKSConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.BaoCaoNhom2.Properties.Settings.GlobalReference.Default.QLKSConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataXuatPhieu" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataXuatPhieu" msprop:Generator_UserDSName="DataXuatPhieu">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Hoadon1" msprop:Generator_TableClassName="Hoadon1DataTable" msprop:Generator_TableVarName="tableHoadon1" msprop:Generator_TablePropName="Hoadon1" msprop:Generator_RowDeletingName="Hoadon1RowDeleting" msprop:Generator_RowChangingName="Hoadon1RowChanging" msprop:Generator_RowEvHandlerName="Hoadon1RowChangeEventHandler" msprop:Generator_RowDeletedName="Hoadon1RowDeleted" msprop:Generator_UserTableName="Hoadon1" msprop:Generator_RowChangedName="Hoadon1RowChanged" msprop:Generator_RowEvArgName="Hoadon1RowChangeEvent" msprop:Generator_RowClassName="Hoadon1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_hoadon" msprop:Generator_ColumnVarNameInTable="columnid_hoadon" msprop:Generator_ColumnPropNameInRow="id_hoadon" msprop:Generator_ColumnPropNameInTable="id_hoadonColumn" msprop:Generator_UserColumnName="id_hoadon">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TenKH" msprop:Generator_ColumnVarNameInTable="columnTenKH" msprop:Generator_ColumnPropNameInRow="TenKH" msprop:Generator_ColumnPropNameInTable="TenKHColumn" msprop:Generator_UserColumnName="TenKH" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Ngaysinh" msprop:Generator_ColumnVarNameInTable="columnNgaysinh" msprop:Generator_ColumnPropNameInRow="Ngaysinh" msprop:Generator_ColumnPropNameInTable="NgaysinhColumn" msprop:Generator_UserColumnName="Ngaysinh" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Ngaydatphong" msprop:Generator_ColumnVarNameInTable="columnNgaydatphong" msprop:Generator_ColumnPropNameInRow="Ngaydatphong" msprop:Generator_ColumnPropNameInTable="NgaydatphongColumn" msprop:Generator_UserColumnName="Ngaydatphong" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Datcoc" msprop:Generator_ColumnVarNameInTable="columnDatcoc" msprop:Generator_ColumnPropNameInRow="Datcoc" msprop:Generator_ColumnPropNameInTable="DatcocColumn" msprop:Generator_UserColumnName="Datcoc" type="xs:double" minOccurs="0" />
+              <xs:element name="Ngaynhanphong" msprop:Generator_ColumnVarNameInTable="columnNgaynhanphong" msprop:Generator_ColumnPropNameInRow="Ngaynhanphong" msprop:Generator_ColumnPropNameInTable="NgaynhanphongColumn" msprop:Generator_UserColumnName="Ngaynhanphong" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Ngaytraphong" msprop:Generator_ColumnVarNameInTable="columnNgaytraphong" msprop:Generator_ColumnPropNameInRow="Ngaytraphong" msprop:Generator_ColumnPropNameInTable="NgaytraphongColumn" msprop:Generator_UserColumnName="Ngaytraphong" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="soluongnguoi" msprop:Generator_ColumnVarNameInTable="columnsoluongnguoi" msprop:Generator_ColumnPropNameInRow="soluongnguoi" msprop:Generator_ColumnPropNameInTable="soluongnguoiColumn" msprop:Generator_UserColumnName="soluongnguoi" type="xs:int" minOccurs="0" />
+              <xs:element name="phiphong" msprop:Generator_ColumnVarNameInTable="columnphiphong" msprop:Generator_ColumnPropNameInRow="phiphong" msprop:Generator_ColumnPropNameInTable="phiphongColumn" msprop:Generator_UserColumnName="phiphong" type="xs:float" minOccurs="0" />
+              <xs:element name="phiphuthu" msprop:Generator_ColumnVarNameInTable="columnphiphuthu" msprop:Generator_ColumnPropNameInRow="phiphuthu" msprop:Generator_ColumnPropNameInTable="phiphuthuColumn" msprop:Generator_UserColumnName="phiphuthu" type="xs:float" minOccurs="0" />
+              <xs:element name="thanhtien" msprop:Generator_ColumnVarNameInTable="columnthanhtien" msprop:Generator_ColumnPropNameInRow="thanhtien" msprop:Generator_ColumnPropNameInTable="thanhtienColumn" msprop:Generator_UserColumnName="thanhtien" type="xs:float" minOccurs="0" />
+              <xs:element name="TenPhong" msprop:Generator_ColumnVarNameInTable="columnTenPhong" msprop:Generator_ColumnPropNameInRow="TenPhong" msprop:Generator_ColumnPropNameInTable="TenPhongColumn" msprop:Generator_UserColumnName="TenPhong" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Hoadon1" />
+      <xs:field xpath="mstns:id_hoadon" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

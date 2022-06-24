@@ -1,0 +1,27 @@
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe.config
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.ResolveComReference.cache
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.exe
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.pdb
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\bin\Debug\QLThuVien.pdb
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csprojResolveAssemblyReference.cache
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frmCanBo.resources
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frmChuyenMuc.resources
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frmDangNhap.resources
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frmDocGia.resources
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frmDoiMatKhau.resources
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frmNhaXB.resources
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frmPhieuMuon.resources
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frmQLPhieu.resources
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frmQuenMatKhau.resources
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frmSach.resources
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frmTacGia.resources
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frmTKNgayHenTra.resources
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.MDIForm.resources
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.Properties.Resources.resources
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.GenerateResource.Cache
+E:\Truongbt\BaiTapTBT\LTTQ\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frmTKDocGia.resources
+D:\LTTQ C#\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.AssemblyReference.cache
+D:\LTTQ C#\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.SuggestedBindingRedirects.cache
+D:\LTTQ C#\QLThuVien\QLThuVien\obj\Debug\QLThuVien.exe
+D:\LTTQ C#\QLThuVien\QLThuVien\obj\Debug\QLThuVien.pdb

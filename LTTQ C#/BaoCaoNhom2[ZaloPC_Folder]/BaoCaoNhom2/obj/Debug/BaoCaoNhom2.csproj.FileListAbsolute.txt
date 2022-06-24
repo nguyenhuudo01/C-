@@ -1,0 +1,881 @@
+C:\Users\KyThuat88\source\repos\BaoCaoNhom2\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+C:\Users\KyThuat88\source\repos\BaoCaoNhom2\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+C:\Users\KyThuat88\source\repos\BaoCaoNhom2\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+C:\Users\KyThuat88\source\repos\BaoCaoNhom2\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+C:\Users\KyThuat88\source\repos\BaoCaoNhom2\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+C:\Users\KyThuat88\source\repos\BaoCaoNhom2\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+C:\Users\KyThuat88\source\repos\BaoCaoNhom2\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+C:\Users\KyThuat88\source\repos\BaoCaoNhom2\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+C:\Users\KyThuat88\source\repos\BaoCaoNhom2\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+C:\Users\KyThuat88\source\repos\BaoCaoNhom2\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmHome.resources
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmHome.resources
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2Test\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2Test\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2Test\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2Test\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2Test\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2Test\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2Test\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2Test\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2Test\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2Test\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2Test\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2Test\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2Test\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\BaoCaoNhom2Test\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 1\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Hoan thien\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 3\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test lần 4\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Hoàn thiện lần cuối\Test trắng\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 11h ngày 15_6\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyKH.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 2)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyTK.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyKH.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyTK.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Hoàn thiện 3)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyKH.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyTK.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\Test 19_20 ngày 20_06\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyKH.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyTK.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã mã hóa mk)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyKH.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyTK.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã nv)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyKH.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyTK.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã Tìm kiếm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyKH.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyTK.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(Đã xong)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.AssemblyReference.cache
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDatPhong.resources
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmLoaiPhong.resources
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyKH.resources
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyTK.resources
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThongtinPhong.resources
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThuePhong.resources
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe.licenses
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Shared.v20.2.dll
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Misc.v20.2.dll
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.2.dll
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinTabControl.v20.2.dll
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.v20.2.dll
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Shared.v20.2.xml
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Misc.v20.2.xml
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.2.xml
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinTabControl.v20.2.xml
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.v20.2.xml
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmTraPhong.resources
+D:\zalo\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDichVu.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\FlatButton.dll
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Shared.v20.2.dll
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Misc.v20.2.dll
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.2.dll
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinTabControl.v20.2.dll
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.v20.2.dll
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\JDragControl.dll
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\JImageButton.dll
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\JTextBox.dll
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\JThinButton.dll
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Shared.v20.2.xml
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Misc.v20.2.xml
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.2.xml
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinTabControl.v20.2.xml
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.v20.2.xml
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartSanPham.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDatPhong.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDichVu.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmLoaiPhong.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyKH.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyTK.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThongtinPhong.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThuePhong.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmTraPhong.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.HoaDonDV.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.NhapKho.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.PhuThu.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.SanPham.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe.licenses
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsMonth.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsRoomMonth.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsYear.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThu.resources
+E:\c#\BaoCaoNhom2(Phân quyền)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.ThongKeNhapKho.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\Infragistics4.Shared.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Misc.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinTabControl.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\Infragistics4.Shared.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Misc.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinTabControl.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csprojAssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartSanPham.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsMonth.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsRoomMonth.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsYear.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThu.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDatPhong.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDichVu.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmLoaiPhong.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyKH.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyTK.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThongtinPhong.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThuePhong.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmTraPhong.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.HoaDonDV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.NhapKho.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.PhuThu.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.SanPham.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.ThongKeNhapKho.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe.licenses
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã ghép code)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Repass.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Shared.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Misc.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinTabControl.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Shared.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Misc.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinTabControl.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartSanPham.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsMonth.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsRoomMonth.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsYear.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThu.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDatPhong.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDichVu.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmLoaiPhong.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyKH.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyTK.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThongtinPhong.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThuePhong.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmTraPhong.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.HoaDonDV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.NhapKho.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.PhuThu.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Repass.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.SanPham.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.ThongKeNhapKho.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe.licenses
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Barcode.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Portable.Core.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Barcode.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Portable.Core.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\AxShockwaveFlashObjects.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.Shared.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\ShockwaveFlashObjects.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\stdole.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.AssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(đã có đổi mật khẩu)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmPhieuThanhToan.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Shared.v20.2.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Barcode.v20.2.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v20.2.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Misc.v20.2.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Portable.Core.v20.2.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.2.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinTabControl.v20.2.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.v20.2.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Shared.v20.2.xml
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Barcode.v20.2.xml
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v20.2.xml
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Misc.v20.2.xml
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Portable.Core.v20.2.xml
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.2.xml
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinTabControl.v20.2.xml
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.v20.2.xml
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartSanPham.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsMonth.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsRoomMonth.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsYear.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThu.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDatPhong.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDichVu.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmLoaiPhong.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmPhieuThanhToan.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyKH.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyTK.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThongtinPhong.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThuePhong.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmTraPhong.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.HoaDonDV.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.NhapKho.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.PhuThu.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Repass.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.SanPham.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.ThongKeNhapKho.resources
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe.licenses
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+C:\Users\Admin\Downloads\BaoCaoNhom2(đã có đổi mật khẩu)[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\AxShockwaveFlashObjects.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.Shared.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\FlatButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Shared.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Barcode.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Misc.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Portable.Core.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinTabControl.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.v20.2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\JDragControl.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\JGradient Panel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\JImageButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\JMaterialTextbox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\JMetroTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\JTextBox.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\JTextBox2.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\JThinButton.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\ShockwaveFlashObjects.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\stdole.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Shared.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Barcode.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Misc.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Portable.Core.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinTabControl.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\bin\Debug\Infragistics4.Win.v20.2.xml
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.AssemblyReference.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartSanPham.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsMonth.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsRoomMonth.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsYear.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThu.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDatPhong.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDichVu.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmLoaiPhong.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmPhieuThanhToan.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyKH.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyTK.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThongtinPhong.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThuePhong.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmTraPhong.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.HoaDonDV.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.NhapKho.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.PhuThu.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.SanPham.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.ThongKeNhapKho.resources
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe.licenses
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\D\DotNet ( Lp trình )\Code C#\Bài tập lớn c#\Thử nghiệm\BaoCaoNhom2(ninh làm)\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmRepass.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe.config
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.exe
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\BaoCaoNhom2.pdb
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\FontAwesome.Sharp.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Shared.v20.2.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Barcode.v20.2.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v20.2.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Misc.v20.2.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Portable.Core.v20.2.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.2.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinTabControl.v20.2.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.v20.2.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\ShockwaveFlashObjects.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\stdole.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Shared.v20.2.xml
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Barcode.v20.2.xml
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v20.2.xml
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Misc.v20.2.xml
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.Portable.Core.v20.2.xml
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.2.xml
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.UltraWinTabControl.v20.2.xml
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Infragistics4.Win.v20.2.xml
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartSanPham.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsMonth.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsRoomMonth.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsYear.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThu.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDatPhong.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDichVu.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmLoaiPhong.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmPhieuThanhToan.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyKH.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyTK.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThongtinPhong.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThuePhong.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmTraPhong.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.HoaDonDV.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.NhapKho.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.PhuThu.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmRepass.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.SanPham.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.ThongKeNhapKho.resources
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe.licenses
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CoreCompileInputs.cache
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.CopyComplete
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.AssemblyReference.cache
+D:\LapTrinh\C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.SuggestedBindingRedirects.cache
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.AssemblyReference.cache
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.SuggestedBindingRedirects.cache
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartSanPham.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsMonth.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsRoomMonth.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThuFull.ChartsYear.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.DoanhThu.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDatPhong.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmDichVu.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmLoaiPhong.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmPhieuThanhToan.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyKH.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyNV.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmQuanLyTK.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThongtinPhong.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmThuePhong.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmTraPhong.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.HoaDonDV.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Home.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Login.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.NhapKho.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.PhuThu.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Properties.Resources.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.frmRepass.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.SanPham.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.Start.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.ThongKeNhapKho.resources
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.csproj.GenerateResource.cache
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe.licenses
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.exe
+D:\LTTQ C#\BaoCaoNhom2[ZaloPC_Folder]\BaoCaoNhom2\obj\Debug\BaoCaoNhom2.pdb

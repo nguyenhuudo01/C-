@@ -1,0 +1,11 @@
+D:\LTTQ C#\Frm\listview1\listview1\bin\Debug\listview1.exe.config
+D:\LTTQ C#\Frm\listview1\listview1\bin\Debug\listview1.exe
+D:\LTTQ C#\Frm\listview1\listview1\bin\Debug\listview1.pdb
+D:\LTTQ C#\Frm\listview1\listview1\obj\Debug\listview1.frmDanhSach.resources
+D:\LTTQ C#\Frm\listview1\listview1\obj\Debug\listview1.Properties.Resources.resources
+D:\LTTQ C#\Frm\listview1\listview1\obj\Debug\listview1.csproj.GenerateResource.Cache
+D:\LTTQ C#\Frm\listview1\listview1\obj\Debug\listview1.exe
+D:\LTTQ C#\Frm\listview1\listview1\obj\Debug\listview1.pdb
+D:\LTTQ C#\Frm\listview1\listview1\obj\Debug\listview1.csproj.AssemblyReference.cache
+D:\LTTQ C#\Frm\listview1\listview1\obj\Debug\listview1.csproj.SuggestedBindingRedirects.cache
+D:\LTTQ C#\Frm\listview1\listview1\obj\Debug\listview1.csproj.CoreCompileInputs.cache

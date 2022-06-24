@@ -1,0 +1,5 @@
+D:\LTTQ C#\BT\Bai1\Bai1\bin\Debug\Bai1.exe.config
+D:\LTTQ C#\BT\Bai1\Bai1\bin\Debug\Bai1.exe
+D:\LTTQ C#\BT\Bai1\Bai1\bin\Debug\Bai1.pdb
+D:\LTTQ C#\BT\Bai1\Bai1\obj\Debug\Bai1.exe
+D:\LTTQ C#\BT\Bai1\Bai1\obj\Debug\Bai1.pdb

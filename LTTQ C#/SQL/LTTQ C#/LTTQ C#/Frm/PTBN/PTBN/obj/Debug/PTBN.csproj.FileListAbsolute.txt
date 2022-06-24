@@ -1,0 +1,9 @@
+D:\LTTQ C#\Frm\PTBN\PTBN\bin\Debug\PTBN.exe.config
+D:\LTTQ C#\Frm\PTBN\PTBN\bin\Debug\PTBN.exe
+D:\LTTQ C#\Frm\PTBN\PTBN\bin\Debug\PTBN.pdb
+D:\LTTQ C#\Frm\PTBN\PTBN\obj\Debug\PTBN.csprojResolveAssemblyReference.cache
+D:\LTTQ C#\Frm\PTBN\PTBN\obj\Debug\PTBN.FrmGiaiPTBN.resources
+D:\LTTQ C#\Frm\PTBN\PTBN\obj\Debug\PTBN.Properties.Resources.resources
+D:\LTTQ C#\Frm\PTBN\PTBN\obj\Debug\PTBN.csproj.GenerateResource.Cache
+D:\LTTQ C#\Frm\PTBN\PTBN\obj\Debug\PTBN.exe
+D:\LTTQ C#\Frm\PTBN\PTBN\obj\Debug\PTBN.pdb
